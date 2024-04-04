@@ -46,3 +46,19 @@ print("Alamat : ",alamat)
 print("Jenis Kelamin : ",jenis_kelamin)
 print("Umur : ", umur)
 print ("===================================")
+
+# anggota 4
+nama = "Riska Suciyanti "
+kelas = "X RPL 2"
+agama = "Islam"
+alamat = "Dasan Cermen Asri"
+jenis_kelamin = "Perempuan"
+umur = 16
+
+print("Nama : ",nama)
+print("Kelas : ",kelas)
+print("Agama : ",agama)
+print("Alamat : ",alamat)
+print("Jenis Kelamin : ",jenis_kelamin)
+print("Umur : ", umur)
+print ("===================================")
