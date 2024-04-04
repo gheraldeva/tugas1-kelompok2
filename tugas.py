@@ -30,3 +30,19 @@ print("Alamat : ",alamat)
 print("Jenis Kelamin : ",jenis_kelamin)
 print("Umur : ", umur)
 print ("===================================")
+
+# anggota 3
+nama = "Gabrielle Christine Carissa Tanaya "
+kelas = "X RPL 2"
+agama = "Kristen"
+alamat = "Jalan I.G.K Jelantik Gosa No.23"
+jenis_kelamin = "Perempuan"
+umur = 15
+
+print("Nama : ",nama)
+print("Kelas : ",kelas)
+print("Agama : ",agama)
+print("Alamat : ",alamat)
+print("Jenis Kelamin : ",jenis_kelamin)
+print("Umur : ", umur)
+print ("===================================")
