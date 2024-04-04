@@ -16,11 +16,11 @@ print("Umur : ", umur)
 print ("===================================")
 
 # anggota 2
-nama = "Gheral Deva Bagus Archana"
+nama = "Rara Avtika Fani"
 kelas = "X RPL 2"
-agama = "Hindu"
-alamat = "Karang Bayan, Lingsar"
-jenis_kelamin = "Laki Laki"
+agama = "Islam"
+alamat = "Jalan Panji Tilar no 65 Mataram"
+jenis_kelamin = "Perempuan"
 umur = 16
 
 print("Nama : ",nama)
